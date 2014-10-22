@@ -11,9 +11,9 @@ Show the Jade Robot Turning on its Central Axis (Left Motor Forwards, Right Moto
 ### Project Information
 ```
 Type              : C
-Version           : 01.0
+Version           : 1.0
 Author            : myke predko
-Firmware          : 40
+Firmware          : 42
 ```
 
 
